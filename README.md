@@ -18,4 +18,4 @@ Also the animal option is disabled by default because it would also affect custo
 
  
 
-for 1.14/1.15: the config is text only so you have to quit the game and change the values in the text file breedingspeed-common [ in the config folder]
+from 1.14: the config is text only so you have to quit the game and change the values in the text file breedingspeed-common [ in the config folder]
